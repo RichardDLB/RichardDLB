@@ -1,4 +1,4 @@
-# 💫 About Me:
+
 Hello👋🏾<br><br>👨🏽‍💻 I am an IT enthusiast<br>🌱 Growing web developer<br>🚀 currently studying web specialization<br>👀 I’m looking to collaborate on any open source project<br>
 
 
